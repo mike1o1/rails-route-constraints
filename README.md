@@ -4,3 +4,4 @@ This project helps to demonstrate how route constraints can be used to create ro
 
 See accompanying blog post for more details:
 
+https://www.mikewilson.dev/posts/rails-vanity-urls-with-route-constraints/
