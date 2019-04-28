@@ -1,24 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project helps to demonstrate how route constraints can be used to create root-level vanity URL's, while still having catch-all routes in place for easy 404 pages, or static pages using `high_voltage` gem.
 
-Things you may want to cover:
+See accompanying blog post for more details:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
